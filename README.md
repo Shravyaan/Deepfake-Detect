@@ -2,7 +2,6 @@
 
 This project is a multi-page web application built with Django that leverages a trained **ResNet (Convolutional Neural Network)** to detect deepfake images. It provides a clean, modern, and user-friendly interface for uploading an image to receive an instant prediction on its authenticity.
 
-This project was built by **Shravya N.** and her teammates from **Jyothy Institute of Technology, Bengaluru**.
 
 ---
 
@@ -48,3 +47,4 @@ Follow these steps to get the project running on your local machine.
 ```bash
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd deepfake_project
+
