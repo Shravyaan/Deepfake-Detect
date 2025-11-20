@@ -1,0 +1,20 @@
+{% extends 'detector/base.html' %}
+{% load static %}
+
+{% block title %}Homepage - Deepfake Detector{% endblock %}
+
+{% block content %}
+
+    <div class="animated-background">
+        <div class="shape-1"></div>
+        <div class="shape-2"></div>
+    </div>
+
+    <div class="home-hero">
+        <h1>Welcome to DeepDetector</h1>
+        <p>Your advanced solution for identifying digital forgeries.</p>
+        <p>Using state-of-the-art AI, we analyze images to detect deepfakes with high accuracy.</p>
+        <a href="{% url 'detector' %}" class="cta-button">Try the Detector Now</a>
+    </div>
+
+{% endblock %}
