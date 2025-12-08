@@ -28,8 +28,8 @@ This project is a multi-page web application built with Django that leverages a 
 
 * **Backend:** Python, Django
 * **Machine Learning:** TensorFlow, Keras, NumPy
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Image Processing:** Pillow (a fork of PIL)
+* **Model Training:** Custom CNN 
+*  **Frontend:** HTML5, CSS3, JavaScript
 
 ---
 
@@ -47,5 +47,6 @@ Follow these steps to get the project running on your local machine.
 ```bash
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd deepfake_project
+
 
 
